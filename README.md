@@ -1,6 +1,6 @@
 # login_form
 
-A new Flutter project.
+This is source code about Login page made with Flutter Framework.
 
 ## Getting Started
 
